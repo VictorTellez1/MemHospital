@@ -2,6 +2,10 @@
 redireccionamiento pues chrome lo impide,  la solucion seria comprar uno, pero no le veo sentido al ser solo un proyecto de presentacion,
 por lo cual te pido que si quieres verlo lo coloques tu manualmente por favor </h1>
 El link es el siguiente memhospital.iviweb.online
+<br></br>
+<br></br>
+<br></br>
+<br></br>
 
 
 
