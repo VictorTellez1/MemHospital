@@ -66,4 +66,4 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 <hr>
 <h1>Puedes visitar la pagina montada en un host colocando lo siguiente</h1>
-memhospital.iviweb.online
+<a href="memhospital.iviweb.online">A</a>
